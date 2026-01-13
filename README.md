@@ -1,2 +1,2 @@
 # new-project
-new github project
+new github project lab
